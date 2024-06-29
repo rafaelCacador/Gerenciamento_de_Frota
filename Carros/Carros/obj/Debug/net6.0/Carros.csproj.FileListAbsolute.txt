@@ -1,0 +1,240 @@
+C:\Users\Geeêh Luis\Desktop\Vianna_Junior\PWA\Trabalho\Carros\Carros\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Geeêh Luis\Desktop\Vianna_Junior\PWA\Trabalho\Carros\Carros\bin\Debug\net6.0\appsettings.json
+C:\Users\Geeêh Luis\Desktop\Vianna_Junior\PWA\Trabalho\Carros\Carros\bin\Debug\net6.0\Carros.exe
+C:\Users\Geeêh Luis\Desktop\Vianna_Junior\PWA\Trabalho\Carros\Carros\bin\Debug\net6.0\Carros.deps.json
+C:\Users\Geeêh Luis\Desktop\Vianna_Junior\PWA\Trabalho\Carros\Carros\bin\Debug\net6.0\Carros.runtimeconfig.json
+C:\Users\Geeêh Luis\Desktop\Vianna_Junior\PWA\Trabalho\Carros\Carros\bin\Debug\net6.0\Carros.dll
+C:\Users\Geeêh Luis\Desktop\Vianna_Junior\PWA\Trabalho\Carros\Carros\bin\Debug\net6.0\Carros.pdb
+C:\Users\Geeêh Luis\Desktop\Vianna_Junior\PWA\Trabalho\Carros\Carros\bin\Debug\net6.0\Azure.Core.dll
+C:\Users\Geeêh Luis\Desktop\Vianna_Junior\PWA\Trabalho\Carros\Carros\bin\Debug\net6.0\Azure.Identity.dll
+C:\Users\Geeêh Luis\Desktop\Vianna_Junior\PWA\Trabalho\Carros\Carros\bin\Debug\net6.0\Dapper.dll
+C:\Users\Geeêh Luis\Desktop\Vianna_Junior\PWA\Trabalho\Carros\Carros\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Geeêh Luis\Desktop\Vianna_Junior\PWA\Trabalho\Carros\Carros\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Geeêh Luis\Desktop\Vianna_Junior\PWA\Trabalho\Carros\Carros\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\Geeêh Luis\Desktop\Vianna_Junior\PWA\Trabalho\Carros\Carros\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\Geeêh Luis\Desktop\Vianna_Junior\PWA\Trabalho\Carros\Carros\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Geeêh Luis\Desktop\Vianna_Junior\PWA\Trabalho\Carros\Carros\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Geeêh Luis\Desktop\Vianna_Junior\PWA\Trabalho\Carros\Carros\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Geeêh Luis\Desktop\Vianna_Junior\PWA\Trabalho\Carros\Carros\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Geeêh Luis\Desktop\Vianna_Junior\PWA\Trabalho\Carros\Carros\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Geeêh Luis\Desktop\Vianna_Junior\PWA\Trabalho\Carros\Carros\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Geeêh Luis\Desktop\Vianna_Junior\PWA\Trabalho\Carros\Carros\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\Geeêh Luis\Desktop\Vianna_Junior\PWA\Trabalho\Carros\Carros\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+C:\Users\Geeêh Luis\Desktop\Vianna_Junior\PWA\Trabalho\Carros\Carros\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Geeêh Luis\Desktop\Vianna_Junior\PWA\Trabalho\Carros\Carros\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Geeêh Luis\Desktop\Vianna_Junior\PWA\Trabalho\Carros\Carros\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Geeêh Luis\Desktop\Vianna_Junior\PWA\Trabalho\Carros\Carros\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Geeêh Luis\Desktop\Vianna_Junior\PWA\Trabalho\Carros\Carros\bin\Debug\net6.0\System.ClientModel.dll
+C:\Users\Geeêh Luis\Desktop\Vianna_Junior\PWA\Trabalho\Carros\Carros\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Geeêh Luis\Desktop\Vianna_Junior\PWA\Trabalho\Carros\Carros\bin\Debug\net6.0\System.Data.SqlClient.dll
+C:\Users\Geeêh Luis\Desktop\Vianna_Junior\PWA\Trabalho\Carros\Carros\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Geeêh Luis\Desktop\Vianna_Junior\PWA\Trabalho\Carros\Carros\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\Geeêh Luis\Desktop\Vianna_Junior\PWA\Trabalho\Carros\Carros\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Geeêh Luis\Desktop\Vianna_Junior\PWA\Trabalho\Carros\Carros\bin\Debug\net6.0\System.Memory.Data.dll
+C:\Users\Geeêh Luis\Desktop\Vianna_Junior\PWA\Trabalho\Carros\Carros\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\Geeêh Luis\Desktop\Vianna_Junior\PWA\Trabalho\Carros\Carros\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Geeêh Luis\Desktop\Vianna_Junior\PWA\Trabalho\Carros\Carros\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\Geeêh Luis\Desktop\Vianna_Junior\PWA\Trabalho\Carros\Carros\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\Geeêh Luis\Desktop\Vianna_Junior\PWA\Trabalho\Carros\Carros\bin\Debug\net6.0\de\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Geeêh Luis\Desktop\Vianna_Junior\PWA\Trabalho\Carros\Carros\bin\Debug\net6.0\es\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Geeêh Luis\Desktop\Vianna_Junior\PWA\Trabalho\Carros\Carros\bin\Debug\net6.0\fr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Geeêh Luis\Desktop\Vianna_Junior\PWA\Trabalho\Carros\Carros\bin\Debug\net6.0\it\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Geeêh Luis\Desktop\Vianna_Junior\PWA\Trabalho\Carros\Carros\bin\Debug\net6.0\ja\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Geeêh Luis\Desktop\Vianna_Junior\PWA\Trabalho\Carros\Carros\bin\Debug\net6.0\ko\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Geeêh Luis\Desktop\Vianna_Junior\PWA\Trabalho\Carros\Carros\bin\Debug\net6.0\pt-BR\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Geeêh Luis\Desktop\Vianna_Junior\PWA\Trabalho\Carros\Carros\bin\Debug\net6.0\ru\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Geeêh Luis\Desktop\Vianna_Junior\PWA\Trabalho\Carros\Carros\bin\Debug\net6.0\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Geeêh Luis\Desktop\Vianna_Junior\PWA\Trabalho\Carros\Carros\bin\Debug\net6.0\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Geeêh Luis\Desktop\Vianna_Junior\PWA\Trabalho\Carros\Carros\bin\Debug\net6.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Geeêh Luis\Desktop\Vianna_Junior\PWA\Trabalho\Carros\Carros\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Geeêh Luis\Desktop\Vianna_Junior\PWA\Trabalho\Carros\Carros\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Geeêh Luis\Desktop\Vianna_Junior\PWA\Trabalho\Carros\Carros\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Geeêh Luis\Desktop\Vianna_Junior\PWA\Trabalho\Carros\Carros\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Geeêh Luis\Desktop\Vianna_Junior\PWA\Trabalho\Carros\Carros\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Geeêh Luis\Desktop\Vianna_Junior\PWA\Trabalho\Carros\Carros\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Geeêh Luis\Desktop\Vianna_Junior\PWA\Trabalho\Carros\Carros\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+C:\Users\Geeêh Luis\Desktop\Vianna_Junior\PWA\Trabalho\Carros\Carros\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+C:\Users\Geeêh Luis\Desktop\Vianna_Junior\PWA\Trabalho\Carros\Carros\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+C:\Users\Geeêh Luis\Desktop\Vianna_Junior\PWA\Trabalho\Carros\Carros\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Geeêh Luis\Desktop\Vianna_Junior\PWA\Trabalho\Carros\Carros\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Geeêh Luis\Desktop\Vianna_Junior\PWA\Trabalho\Carros\Carros\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\Geeêh Luis\Desktop\Vianna_Junior\PWA\Trabalho\Carros\Carros\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\Geeêh Luis\Desktop\Vianna_Junior\PWA\Trabalho\Carros\Carros\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\Geeêh Luis\Desktop\Vianna_Junior\PWA\Trabalho\Carros\Carros\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Geeêh Luis\Desktop\Vianna_Junior\PWA\Trabalho\Carros\Carros\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\Geeêh Luis\Desktop\Vianna_Junior\PWA\Trabalho\Carros\Carros\obj\Debug\net6.0\Carros.csproj.AssemblyReference.cache
+C:\Users\Geeêh Luis\Desktop\Vianna_Junior\PWA\Trabalho\Carros\Carros\obj\Debug\net6.0\Carros.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Geeêh Luis\Desktop\Vianna_Junior\PWA\Trabalho\Carros\Carros\obj\Debug\net6.0\Carros.AssemblyInfoInputs.cache
+C:\Users\Geeêh Luis\Desktop\Vianna_Junior\PWA\Trabalho\Carros\Carros\obj\Debug\net6.0\Carros.AssemblyInfo.cs
+C:\Users\Geeêh Luis\Desktop\Vianna_Junior\PWA\Trabalho\Carros\Carros\obj\Debug\net6.0\Carros.csproj.CoreCompileInputs.cache
+C:\Users\Geeêh Luis\Desktop\Vianna_Junior\PWA\Trabalho\Carros\Carros\obj\Debug\net6.0\Carros.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Geeêh Luis\Desktop\Vianna_Junior\PWA\Trabalho\Carros\Carros\obj\Debug\net6.0\Carros.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Geeêh Luis\Desktop\Vianna_Junior\PWA\Trabalho\Carros\Carros\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Geeêh Luis\Desktop\Vianna_Junior\PWA\Trabalho\Carros\Carros\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Geeêh Luis\Desktop\Vianna_Junior\PWA\Trabalho\Carros\Carros\obj\Debug\net6.0\scopedcss\bundle\Carros.styles.css
+C:\Users\Geeêh Luis\Desktop\Vianna_Junior\PWA\Trabalho\Carros\Carros\obj\Debug\net6.0\Carros.csproj.CopyComplete
+C:\Users\Geeêh Luis\Desktop\Vianna_Junior\PWA\Trabalho\Carros\Carros\obj\Debug\net6.0\Carros.dll
+C:\Users\Geeêh Luis\Desktop\Vianna_Junior\PWA\Trabalho\Carros\Carros\obj\Debug\net6.0\refint\Carros.dll
+C:\Users\Geeêh Luis\Desktop\Vianna_Junior\PWA\Trabalho\Carros\Carros\obj\Debug\net6.0\Carros.pdb
+C:\Users\Geeêh Luis\Desktop\Vianna_Junior\PWA\Trabalho\Carros\Carros\obj\Debug\net6.0\Carros.genruntimeconfig.cache
+C:\Users\Geeêh Luis\Desktop\Vianna_Junior\PWA\Trabalho\Carros\Carros\obj\Debug\net6.0\ref\Carros.dll
+C:\Users\Geeêh Luis\Downloads\Trabalho\Trabalho\Carros\Carros\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Geeêh Luis\Downloads\Trabalho\Trabalho\Carros\Carros\bin\Debug\net6.0\appsettings.json
+C:\Users\Geeêh Luis\Downloads\Trabalho\Trabalho\Carros\Carros\bin\Debug\net6.0\Carros.exe
+C:\Users\Geeêh Luis\Downloads\Trabalho\Trabalho\Carros\Carros\bin\Debug\net6.0\Carros.deps.json
+C:\Users\Geeêh Luis\Downloads\Trabalho\Trabalho\Carros\Carros\bin\Debug\net6.0\Carros.runtimeconfig.json
+C:\Users\Geeêh Luis\Downloads\Trabalho\Trabalho\Carros\Carros\bin\Debug\net6.0\Carros.dll
+C:\Users\Geeêh Luis\Downloads\Trabalho\Trabalho\Carros\Carros\bin\Debug\net6.0\Carros.pdb
+C:\Users\Geeêh Luis\Downloads\Trabalho\Trabalho\Carros\Carros\bin\Debug\net6.0\Azure.Core.dll
+C:\Users\Geeêh Luis\Downloads\Trabalho\Trabalho\Carros\Carros\bin\Debug\net6.0\Azure.Identity.dll
+C:\Users\Geeêh Luis\Downloads\Trabalho\Trabalho\Carros\Carros\bin\Debug\net6.0\Dapper.dll
+C:\Users\Geeêh Luis\Downloads\Trabalho\Trabalho\Carros\Carros\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Geeêh Luis\Downloads\Trabalho\Trabalho\Carros\Carros\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Geeêh Luis\Downloads\Trabalho\Trabalho\Carros\Carros\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\Geeêh Luis\Downloads\Trabalho\Trabalho\Carros\Carros\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\Geeêh Luis\Downloads\Trabalho\Trabalho\Carros\Carros\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Geeêh Luis\Downloads\Trabalho\Trabalho\Carros\Carros\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Geeêh Luis\Downloads\Trabalho\Trabalho\Carros\Carros\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Geeêh Luis\Downloads\Trabalho\Trabalho\Carros\Carros\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Geeêh Luis\Downloads\Trabalho\Trabalho\Carros\Carros\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Geeêh Luis\Downloads\Trabalho\Trabalho\Carros\Carros\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Geeêh Luis\Downloads\Trabalho\Trabalho\Carros\Carros\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\Geeêh Luis\Downloads\Trabalho\Trabalho\Carros\Carros\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+C:\Users\Geeêh Luis\Downloads\Trabalho\Trabalho\Carros\Carros\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Geeêh Luis\Downloads\Trabalho\Trabalho\Carros\Carros\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Geeêh Luis\Downloads\Trabalho\Trabalho\Carros\Carros\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Geeêh Luis\Downloads\Trabalho\Trabalho\Carros\Carros\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Geeêh Luis\Downloads\Trabalho\Trabalho\Carros\Carros\bin\Debug\net6.0\System.ClientModel.dll
+C:\Users\Geeêh Luis\Downloads\Trabalho\Trabalho\Carros\Carros\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Geeêh Luis\Downloads\Trabalho\Trabalho\Carros\Carros\bin\Debug\net6.0\System.Data.SqlClient.dll
+C:\Users\Geeêh Luis\Downloads\Trabalho\Trabalho\Carros\Carros\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Geeêh Luis\Downloads\Trabalho\Trabalho\Carros\Carros\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\Geeêh Luis\Downloads\Trabalho\Trabalho\Carros\Carros\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Geeêh Luis\Downloads\Trabalho\Trabalho\Carros\Carros\bin\Debug\net6.0\System.Memory.Data.dll
+C:\Users\Geeêh Luis\Downloads\Trabalho\Trabalho\Carros\Carros\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\Geeêh Luis\Downloads\Trabalho\Trabalho\Carros\Carros\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Geeêh Luis\Downloads\Trabalho\Trabalho\Carros\Carros\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\Geeêh Luis\Downloads\Trabalho\Trabalho\Carros\Carros\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\Geeêh Luis\Downloads\Trabalho\Trabalho\Carros\Carros\bin\Debug\net6.0\de\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Geeêh Luis\Downloads\Trabalho\Trabalho\Carros\Carros\bin\Debug\net6.0\es\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Geeêh Luis\Downloads\Trabalho\Trabalho\Carros\Carros\bin\Debug\net6.0\fr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Geeêh Luis\Downloads\Trabalho\Trabalho\Carros\Carros\bin\Debug\net6.0\it\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Geeêh Luis\Downloads\Trabalho\Trabalho\Carros\Carros\bin\Debug\net6.0\ja\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Geeêh Luis\Downloads\Trabalho\Trabalho\Carros\Carros\bin\Debug\net6.0\ko\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Geeêh Luis\Downloads\Trabalho\Trabalho\Carros\Carros\bin\Debug\net6.0\pt-BR\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Geeêh Luis\Downloads\Trabalho\Trabalho\Carros\Carros\bin\Debug\net6.0\ru\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Geeêh Luis\Downloads\Trabalho\Trabalho\Carros\Carros\bin\Debug\net6.0\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Geeêh Luis\Downloads\Trabalho\Trabalho\Carros\Carros\bin\Debug\net6.0\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Geeêh Luis\Downloads\Trabalho\Trabalho\Carros\Carros\bin\Debug\net6.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Geeêh Luis\Downloads\Trabalho\Trabalho\Carros\Carros\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Geeêh Luis\Downloads\Trabalho\Trabalho\Carros\Carros\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Geeêh Luis\Downloads\Trabalho\Trabalho\Carros\Carros\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Geeêh Luis\Downloads\Trabalho\Trabalho\Carros\Carros\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Geeêh Luis\Downloads\Trabalho\Trabalho\Carros\Carros\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Geeêh Luis\Downloads\Trabalho\Trabalho\Carros\Carros\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Geeêh Luis\Downloads\Trabalho\Trabalho\Carros\Carros\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+C:\Users\Geeêh Luis\Downloads\Trabalho\Trabalho\Carros\Carros\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+C:\Users\Geeêh Luis\Downloads\Trabalho\Trabalho\Carros\Carros\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+C:\Users\Geeêh Luis\Downloads\Trabalho\Trabalho\Carros\Carros\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Geeêh Luis\Downloads\Trabalho\Trabalho\Carros\Carros\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Geeêh Luis\Downloads\Trabalho\Trabalho\Carros\Carros\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\Geeêh Luis\Downloads\Trabalho\Trabalho\Carros\Carros\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\Geeêh Luis\Downloads\Trabalho\Trabalho\Carros\Carros\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\Geeêh Luis\Downloads\Trabalho\Trabalho\Carros\Carros\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Geeêh Luis\Downloads\Trabalho\Trabalho\Carros\Carros\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\Geeêh Luis\Downloads\Trabalho\Trabalho\Carros\Carros\obj\Debug\net6.0\Carros.csproj.AssemblyReference.cache
+C:\Users\Geeêh Luis\Downloads\Trabalho\Trabalho\Carros\Carros\obj\Debug\net6.0\Carros.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Geeêh Luis\Downloads\Trabalho\Trabalho\Carros\Carros\obj\Debug\net6.0\Carros.AssemblyInfoInputs.cache
+C:\Users\Geeêh Luis\Downloads\Trabalho\Trabalho\Carros\Carros\obj\Debug\net6.0\Carros.AssemblyInfo.cs
+C:\Users\Geeêh Luis\Downloads\Trabalho\Trabalho\Carros\Carros\obj\Debug\net6.0\Carros.csproj.CoreCompileInputs.cache
+C:\Users\Geeêh Luis\Downloads\Trabalho\Trabalho\Carros\Carros\obj\Debug\net6.0\Carros.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Geeêh Luis\Downloads\Trabalho\Trabalho\Carros\Carros\obj\Debug\net6.0\Carros.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Geeêh Luis\Downloads\Trabalho\Trabalho\Carros\Carros\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Geeêh Luis\Downloads\Trabalho\Trabalho\Carros\Carros\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Geeêh Luis\Downloads\Trabalho\Trabalho\Carros\Carros\obj\Debug\net6.0\scopedcss\bundle\Carros.styles.css
+C:\Users\Geeêh Luis\Downloads\Trabalho\Trabalho\Carros\Carros\obj\Debug\net6.0\Carros.csproj.CopyComplete
+C:\Users\Geeêh Luis\Downloads\Trabalho\Trabalho\Carros\Carros\obj\Debug\net6.0\Carros.dll
+C:\Users\Geeêh Luis\Downloads\Trabalho\Trabalho\Carros\Carros\obj\Debug\net6.0\refint\Carros.dll
+C:\Users\Geeêh Luis\Downloads\Trabalho\Trabalho\Carros\Carros\obj\Debug\net6.0\Carros.pdb
+C:\Users\Geeêh Luis\Downloads\Trabalho\Trabalho\Carros\Carros\obj\Debug\net6.0\Carros.genruntimeconfig.cache
+C:\Users\Geeêh Luis\Downloads\Trabalho\Trabalho\Carros\Carros\obj\Debug\net6.0\ref\Carros.dll
+C:\Users\Geeêh Luis\Desktop\Projetos Pessoais\Carros\Carros\Carros\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Geeêh Luis\Desktop\Projetos Pessoais\Carros\Carros\Carros\bin\Debug\net6.0\appsettings.json
+C:\Users\Geeêh Luis\Desktop\Projetos Pessoais\Carros\Carros\Carros\bin\Debug\net6.0\Carros.exe
+C:\Users\Geeêh Luis\Desktop\Projetos Pessoais\Carros\Carros\Carros\bin\Debug\net6.0\Carros.deps.json
+C:\Users\Geeêh Luis\Desktop\Projetos Pessoais\Carros\Carros\Carros\bin\Debug\net6.0\Carros.runtimeconfig.json
+C:\Users\Geeêh Luis\Desktop\Projetos Pessoais\Carros\Carros\Carros\bin\Debug\net6.0\Carros.dll
+C:\Users\Geeêh Luis\Desktop\Projetos Pessoais\Carros\Carros\Carros\bin\Debug\net6.0\Carros.pdb
+C:\Users\Geeêh Luis\Desktop\Projetos Pessoais\Carros\Carros\Carros\bin\Debug\net6.0\Azure.Core.dll
+C:\Users\Geeêh Luis\Desktop\Projetos Pessoais\Carros\Carros\Carros\bin\Debug\net6.0\Azure.Identity.dll
+C:\Users\Geeêh Luis\Desktop\Projetos Pessoais\Carros\Carros\Carros\bin\Debug\net6.0\Dapper.dll
+C:\Users\Geeêh Luis\Desktop\Projetos Pessoais\Carros\Carros\Carros\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Geeêh Luis\Desktop\Projetos Pessoais\Carros\Carros\Carros\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Geeêh Luis\Desktop\Projetos Pessoais\Carros\Carros\Carros\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\Geeêh Luis\Desktop\Projetos Pessoais\Carros\Carros\Carros\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\Geeêh Luis\Desktop\Projetos Pessoais\Carros\Carros\Carros\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Geeêh Luis\Desktop\Projetos Pessoais\Carros\Carros\Carros\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Geeêh Luis\Desktop\Projetos Pessoais\Carros\Carros\Carros\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Geeêh Luis\Desktop\Projetos Pessoais\Carros\Carros\Carros\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Geeêh Luis\Desktop\Projetos Pessoais\Carros\Carros\Carros\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Geeêh Luis\Desktop\Projetos Pessoais\Carros\Carros\Carros\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Geeêh Luis\Desktop\Projetos Pessoais\Carros\Carros\Carros\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\Geeêh Luis\Desktop\Projetos Pessoais\Carros\Carros\Carros\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+C:\Users\Geeêh Luis\Desktop\Projetos Pessoais\Carros\Carros\Carros\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Geeêh Luis\Desktop\Projetos Pessoais\Carros\Carros\Carros\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Geeêh Luis\Desktop\Projetos Pessoais\Carros\Carros\Carros\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Geeêh Luis\Desktop\Projetos Pessoais\Carros\Carros\Carros\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Geeêh Luis\Desktop\Projetos Pessoais\Carros\Carros\Carros\bin\Debug\net6.0\System.ClientModel.dll
+C:\Users\Geeêh Luis\Desktop\Projetos Pessoais\Carros\Carros\Carros\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Geeêh Luis\Desktop\Projetos Pessoais\Carros\Carros\Carros\bin\Debug\net6.0\System.Data.SqlClient.dll
+C:\Users\Geeêh Luis\Desktop\Projetos Pessoais\Carros\Carros\Carros\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Geeêh Luis\Desktop\Projetos Pessoais\Carros\Carros\Carros\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\Geeêh Luis\Desktop\Projetos Pessoais\Carros\Carros\Carros\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Geeêh Luis\Desktop\Projetos Pessoais\Carros\Carros\Carros\bin\Debug\net6.0\System.Memory.Data.dll
+C:\Users\Geeêh Luis\Desktop\Projetos Pessoais\Carros\Carros\Carros\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\Geeêh Luis\Desktop\Projetos Pessoais\Carros\Carros\Carros\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Geeêh Luis\Desktop\Projetos Pessoais\Carros\Carros\Carros\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\Geeêh Luis\Desktop\Projetos Pessoais\Carros\Carros\Carros\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\Geeêh Luis\Desktop\Projetos Pessoais\Carros\Carros\Carros\bin\Debug\net6.0\de\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Geeêh Luis\Desktop\Projetos Pessoais\Carros\Carros\Carros\bin\Debug\net6.0\es\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Geeêh Luis\Desktop\Projetos Pessoais\Carros\Carros\Carros\bin\Debug\net6.0\fr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Geeêh Luis\Desktop\Projetos Pessoais\Carros\Carros\Carros\bin\Debug\net6.0\it\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Geeêh Luis\Desktop\Projetos Pessoais\Carros\Carros\Carros\bin\Debug\net6.0\ja\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Geeêh Luis\Desktop\Projetos Pessoais\Carros\Carros\Carros\bin\Debug\net6.0\ko\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Geeêh Luis\Desktop\Projetos Pessoais\Carros\Carros\Carros\bin\Debug\net6.0\pt-BR\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Geeêh Luis\Desktop\Projetos Pessoais\Carros\Carros\Carros\bin\Debug\net6.0\ru\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Geeêh Luis\Desktop\Projetos Pessoais\Carros\Carros\Carros\bin\Debug\net6.0\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Geeêh Luis\Desktop\Projetos Pessoais\Carros\Carros\Carros\bin\Debug\net6.0\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Geeêh Luis\Desktop\Projetos Pessoais\Carros\Carros\Carros\bin\Debug\net6.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Geeêh Luis\Desktop\Projetos Pessoais\Carros\Carros\Carros\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Geeêh Luis\Desktop\Projetos Pessoais\Carros\Carros\Carros\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Geeêh Luis\Desktop\Projetos Pessoais\Carros\Carros\Carros\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Geeêh Luis\Desktop\Projetos Pessoais\Carros\Carros\Carros\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Geeêh Luis\Desktop\Projetos Pessoais\Carros\Carros\Carros\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Geeêh Luis\Desktop\Projetos Pessoais\Carros\Carros\Carros\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Geeêh Luis\Desktop\Projetos Pessoais\Carros\Carros\Carros\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+C:\Users\Geeêh Luis\Desktop\Projetos Pessoais\Carros\Carros\Carros\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+C:\Users\Geeêh Luis\Desktop\Projetos Pessoais\Carros\Carros\Carros\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+C:\Users\Geeêh Luis\Desktop\Projetos Pessoais\Carros\Carros\Carros\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Geeêh Luis\Desktop\Projetos Pessoais\Carros\Carros\Carros\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Geeêh Luis\Desktop\Projetos Pessoais\Carros\Carros\Carros\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\Geeêh Luis\Desktop\Projetos Pessoais\Carros\Carros\Carros\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\Geeêh Luis\Desktop\Projetos Pessoais\Carros\Carros\Carros\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\Geeêh Luis\Desktop\Projetos Pessoais\Carros\Carros\Carros\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Geeêh Luis\Desktop\Projetos Pessoais\Carros\Carros\Carros\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\Geeêh Luis\Desktop\Projetos Pessoais\Carros\Carros\Carros\obj\Debug\net6.0\Carros.csproj.AssemblyReference.cache
+C:\Users\Geeêh Luis\Desktop\Projetos Pessoais\Carros\Carros\Carros\obj\Debug\net6.0\Carros.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Geeêh Luis\Desktop\Projetos Pessoais\Carros\Carros\Carros\obj\Debug\net6.0\Carros.AssemblyInfoInputs.cache
+C:\Users\Geeêh Luis\Desktop\Projetos Pessoais\Carros\Carros\Carros\obj\Debug\net6.0\Carros.AssemblyInfo.cs
+C:\Users\Geeêh Luis\Desktop\Projetos Pessoais\Carros\Carros\Carros\obj\Debug\net6.0\Carros.csproj.CoreCompileInputs.cache
+C:\Users\Geeêh Luis\Desktop\Projetos Pessoais\Carros\Carros\Carros\obj\Debug\net6.0\Carros.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Geeêh Luis\Desktop\Projetos Pessoais\Carros\Carros\Carros\obj\Debug\net6.0\Carros.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Geeêh Luis\Desktop\Projetos Pessoais\Carros\Carros\Carros\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Geeêh Luis\Desktop\Projetos Pessoais\Carros\Carros\Carros\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Geeêh Luis\Desktop\Projetos Pessoais\Carros\Carros\Carros\obj\Debug\net6.0\scopedcss\bundle\Carros.styles.css
+C:\Users\Geeêh Luis\Desktop\Projetos Pessoais\Carros\Carros\Carros\obj\Debug\net6.0\Carros.csproj.CopyComplete
+C:\Users\Geeêh Luis\Desktop\Projetos Pessoais\Carros\Carros\Carros\obj\Debug\net6.0\Carros.dll
+C:\Users\Geeêh Luis\Desktop\Projetos Pessoais\Carros\Carros\Carros\obj\Debug\net6.0\refint\Carros.dll
+C:\Users\Geeêh Luis\Desktop\Projetos Pessoais\Carros\Carros\Carros\obj\Debug\net6.0\Carros.pdb
+C:\Users\Geeêh Luis\Desktop\Projetos Pessoais\Carros\Carros\Carros\obj\Debug\net6.0\Carros.genruntimeconfig.cache
+C:\Users\Geeêh Luis\Desktop\Projetos Pessoais\Carros\Carros\Carros\obj\Debug\net6.0\ref\Carros.dll

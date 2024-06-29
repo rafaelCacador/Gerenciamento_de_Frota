@@ -1,0 +1,60 @@
+﻿@page "/carros"
+@inject ICarroService CarroService
+@inject NavigationManager NavigationManager
+
+<PageTitle>Carros</PageTitle>
+
+<div class="container mt-5">
+    <h3 class="mb-4">Lista de Carros</h3>
+
+    @if (carros == null)
+    {
+        <p><em>Carregando...</em></p>
+    }
+    else
+    {
+        <div class="table-responsive">
+            <table class="table table-bordered table-hover">
+                <thead class="thead-dark">
+                    <tr>
+                        <th>Modelo</th>
+                        <th>Preço</th>
+                        <th>Ações</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    @foreach (var carro in carros)
+                    {
+                        <tr>
+                            <td>@carro.Modelo</td>
+                            <td>@carro.Preco.ToString("C")</td>
+                            <td>
+                                <button class="btn btn-primary btn-sm mr-2" @onclick="() => EditarCarro(carro.Id)">Editar</button>
+                                <button class="btn btn-danger btn-sm" @onclick="() => DeletarCarro(carro.Id)">Deletar</button>
+                            </td>
+                        </tr>
+                    }
+                </tbody>
+            </table>
+        </div>
+    }
+</div>
+
+@code {
+    private IEnumerable<Carro> carros;
+
+    protected override async Task OnInitializedAsync()
+    {
+        carros = await CarroService.GetAllCarros();
+    }
+
+    private void EditarCarro(int id)
+    {
+        NavigationManager.NavigateTo($"/edit/{id}");
+    }
+
+    private async Task DeletarCarro(int id)
+    {
+        carros = await CarroService.DeleteCarro(id);
+    }
+}

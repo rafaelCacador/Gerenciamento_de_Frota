@@ -1,0 +1,28 @@
+@page "/dashboard"
+@inject ICarroService CarroService
+@inject IJSRuntime JSRuntime
+
+<h1>Painel</h1>
+<p>Visualize o painel de controle dos seus carros.</p>
+
+<canvas id="carrosChart" width="400" height="200"></canvas>
+
+@if (carros == null)
+{
+    <p><em>Carregando...</em></p>
+}
+
+@code {
+    private IEnumerable<Carro> carros;
+
+    protected override async Task OnInitializedAsync()
+    {
+        carros = await CarroService.GetAllCarros();
+        if (carros != null)
+        {
+            var modelos = carros.Select(c => c.Modelo).ToArray();
+            var precos = carros.Select(c => c.Preco).ToArray();
+            await JSRuntime.InvokeVoidAsync("drawChart", modelos, precos);
+        }
+    }
+}

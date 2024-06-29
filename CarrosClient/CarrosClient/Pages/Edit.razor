@@ -1,0 +1,41 @@
+﻿@page "/edit/{id:int}"
+@inject ICarroService CarroService
+@inject NavigationManager NavigationManager
+
+<PageTitle>Editar Carro</PageTitle>
+
+<div class="container mt-5">
+    <h3 class="mb-4">Editar Carro</h3>
+
+    <EditForm Model="carro" OnValidSubmit="HandleValidSubmit">
+        <DataAnnotationsValidator />
+        <ValidationSummary />
+
+        <div class="form-group">
+            <label class="form-label">Modelo</label>
+            <InputText class="form-control" @bind-Value="carro.Modelo" />
+        </div>
+        <div class="form-group">
+            <label class="form-label">Preço</label>
+            <InputNumber class="form-control" @bind-Value="carro.Preco" />
+        </div>
+        <button type="submit" class="btn btn-primary">Salvar</button>
+    </EditForm>
+</div>
+
+@code {
+    [Parameter]
+    public int id { get; set; }
+    private Carro carro = new Carro();
+
+    protected override async Task OnInitializedAsync()
+    {
+        carro = await CarroService.GetCarroById(id);
+    }
+
+    private async Task HandleValidSubmit()
+    {
+        await CarroService.UpdateCarro(carro);
+        NavigationManager.NavigateTo("/carros");
+    }
+}

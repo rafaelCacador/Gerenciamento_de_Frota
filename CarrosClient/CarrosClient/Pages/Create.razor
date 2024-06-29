@@ -1,0 +1,44 @@
+@page "/create"
+@inject ICarroService CarroService
+@inject NavigationManager NavigationManager
+
+<h1>Cadastro de Carro</h1>
+<p>Formulário para cadastrar um novo carro.</p>
+
+<EditForm Model="novoCarro" OnValidSubmit="HandleValidSubmit">
+    <DataAnnotationsValidator />
+    <ValidationSummary />
+
+    <div class="form-group">
+        <label for="modelo">Modelo:</label>
+        <InputText id="modelo" class="form-control" @bind-Value="novoCarro.Modelo" />
+    </div>
+    <div class="form-group">
+        <label for="preco">Preço:</label>
+        <InputNumber id="preco" class="form-control" @bind-Value="novoCarro.Preco" />
+    </div>
+    @if (!string.IsNullOrEmpty(ErrorMessage))
+    {
+        <div class="alert alert-danger">@ErrorMessage</div>
+    }
+    <button type="submit" class="btn btn-primary">Cadastrar</button>
+</EditForm>
+
+@code {
+    private Carro novoCarro = new Carro();
+    private string ErrorMessage;
+
+    private async Task HandleValidSubmit()
+    {
+        if (novoCarro.Preco < 0)
+        {
+            ErrorMessage = "Por favor, informe apenas números positivos para o preço.";
+        }
+        else
+        {
+            ErrorMessage = string.Empty;
+            await CarroService.CreateCarro(novoCarro);
+            NavigationManager.NavigateTo("/carros");
+        }
+    }
+}
